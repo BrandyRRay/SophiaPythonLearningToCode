@@ -1,0 +1,11 @@
+Enter your contacts First Name: Stan
+Enter your contacts Last Name: Lee
+Enter your contacts Address: 135 W 50th St New York City NY 10019
+Enter your contacts phone number: '(212)576-4000'
+Enter your contacts email: stan.lee@gmail.com
+Enter your contacts Facebook: www.facebook.com/stan.lee
+Enter your contacts twitter: @stanlee
+Enter your contacts instagram: @stan.lee
+
+
+Stan,Lee,135 W 50th St New York City NY 10019,(212)576-4000,stan.lee@gmail.com,www.facebook.com/stan.lee,@stanlee,@stan.lee
